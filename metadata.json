@@ -1,0 +1,7 @@
+{
+  "name": "LuminaArt AI Painter App",
+  "description": "A sophisticated AI-powered digital art studio that transforms your imagination and photos into stunning masterpieces using Gemini's advanced image generation models.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
